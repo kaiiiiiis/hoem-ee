@@ -181,8 +181,8 @@ body {
     font-style: normal;
     vertical-align: middle;
   position: absolute;
-  left: 31%;
-    top: 73%;
+  left: 25%;
+    top: 63%;
     opacity: 0;
  margin: 0;
  animation: sss 2s forwards; 
@@ -229,7 +229,7 @@ body {
     opacity: 0;
     width:32%;
     position: absolute;
-    top: 50%;
+    top: 45%;
     left: 2%;
    
         animation: slideinLeft 2s forwards;
@@ -252,7 +252,7 @@ body {
   
     width: 37%;
     position: absolute;
-top: 27%;
+top: 22%;
 left: 60%;
 animation: slideinRight 2s forwards;
 animation-delay: 1s;
@@ -272,7 +272,7 @@ animation-delay: 1s;
     position: absolute;
     left: 42%;
     opacity: 0;
-    top: 44%;
+    top: 39%;
     font-size: 50px;
     margin: 0;
     color: #ffffff;
