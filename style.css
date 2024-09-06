@@ -29,6 +29,9 @@
 .tab-switch:checked + .tab-label {
 	color: DeepSkyBlue;
 }
+body{
+	margin:0;
+}
 
 .tab-label::after {
 	background: DeepSkyBlue;
